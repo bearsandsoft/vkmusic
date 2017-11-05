@@ -1,1 +1,9 @@
-
+{ 
+  release: {
+    v: "1.0",
+    build: "1"
+  },
+  beta: {
+    v: "1.0",
+    build: "1"
+  }
